@@ -1,0 +1,109 @@
+@import "null.css";
+
+body {
+	font-family: "Lato", sans-serif;
+}
+
+.wrapper {
+	min-height: 100%;
+	overflow: hidden;
+	max-width: 810px;
+	margin: 0 auto;
+	padding-top: 10px;
+}
+
+h1 {
+	font-weight: 900;
+	font-size: 46px;
+	color: #1E212C;
+	margin: 0px 0px 92px 0px;
+	line-height: 60px;
+}
+
+.image {
+	width: 100%;
+	margin-bottom: 60px;
+}
+
+.line {
+	font-weight: 700;
+	font-size: 20px;
+	color: #1E212C;
+	margin-bottom: 24px;
+	line-height: 30px;
+}
+
+.next {
+	font-weight: 400;
+	font-size: 16px;
+	color: #424551;
+	margin-bottom: 48px;
+	line-height: 26px;
+}
+
+.paragraph {
+	font-weight: 700;
+	font-size: 20px;
+	color: #1E212C;
+	margin-bottom: 48px;
+	padding-left: 58px;
+	line-height: 30px;
+}
+
+h2 {
+	font-weight: 400;
+	font-size: 16px;
+	color: #424551;
+	margin-bottom: 24px;
+	line-height: 26px;
+}
+
+ul {
+	color: #424551;
+	margin-bottom: 24px;
+	padding-left: 32px;
+}
+
+li {
+	padding: 5px 0;
+	margin-bottom: 4px;
+}
+
+.sentence {
+	font-size: 16px;
+	color: #424551;
+	margin-bottom: 60px;
+	line-height: 26px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
